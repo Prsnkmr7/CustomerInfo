@@ -1,0 +1,17 @@
+ [{
+     "street": "22 Rue du Grenier Saint-Lazare",
+     "postalCode": "75003",
+     "city": "Paris",
+     "countryCode": "FRA",
+     "country": "France",
+     "text": "22 Rue du Grenier Saint-Lazare\n75003 Paris\nFrance"
+   },
+   {
+     "street": "22 Rue du Grenier",
+     "postalCode": "750003",
+     "city": "Bangalore",
+     "countryCode": "FRA",
+     "country": "France",
+     "text": "22 Rue du Grenier"
+   }
+ ]

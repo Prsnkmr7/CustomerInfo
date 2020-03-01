@@ -1,0 +1,22 @@
+[{
+    "emp-id": 1,
+    "name": "Licensed Frozen Hat",
+    "description": "Incidunt et magni est ut.",
+    "Age": "50",
+    "sex": "Female"
+  },
+  {
+    "emp-id": 2,
+    "name": "Rustic Concrete Chicken",
+    "description": "Sint libero mollitia.",
+    "Age": "70",
+    "sex": "Male"
+  },
+  {
+    "emp-id": 3,
+    "name": "Fantastic Metal Computer",
+    "description": "In consequuntur cupiditate et unde minus.",
+    "Age": "60",
+    "sex": "Male"
+  }
+]
